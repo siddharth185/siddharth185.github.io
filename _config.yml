@@ -65,9 +65,9 @@ google_ad_slot           :
 author:
   name             : "Your Name"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Machine Learning Enthusiast | Programmer"
+  location         : "New Delhi"
+  email            : think.siddharth@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -80,13 +80,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : siddharth-kulshrestha
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : siddharth__k
   vine             :
   weibo            :
   xing             :

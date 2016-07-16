@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Bunch of geeky stuff"
 title_separator          : "-"
 name                     : "Siddharth Kulshrestha"
-description              : "An amazing website."
+description              : 
 url                      : https://siddharth185.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -36,7 +36,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: siddharth __k
   username               :
 facebook:
   username               :

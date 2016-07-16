@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-23 year Old Programmer who is interested in machine Learning
+Interested in Machine Learning. I code in Python and Scala.
 
 
 ### Contact me

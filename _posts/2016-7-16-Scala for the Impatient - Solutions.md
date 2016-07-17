@@ -2,8 +2,11 @@
 layout: post
 title: Scala for the Impatient - Solutions
 ---
+[Scala](http://www.scala-lang.org/) is a general-purpose programming language. Scala has full support for functional programming and a very strong static type system. Designed to be concise, many of Scala's design decisions were inspired by criticism of Java's shortcomings. (Wikipedia)
 
-As I try to get better at the [Scala](http://www.scala-lang.org/)  Programming Language(and functional programming).I'm going to post the solutions to Cay S. Horstmann's excellent book - [Scala for the Impatient](http://horstmann.com/scala/) . Do consider buying it if you are looking to learn (with previous coding experience) 
+As I try to get better at it, I'm going to post the solutions to Cay S. Horstmann's excellent book - [Scala for the Impatient](http://horstmann.com/scala/) . Do consider buying it if you are looking to learn (with previous coding experience) 
+
+All the A1 chapters of the book are available free [here](http://fileadmin.cs.lth.se/scala/scala-impatient.pdf) 
 
 Note - I'm using Scala 2.11.7
 

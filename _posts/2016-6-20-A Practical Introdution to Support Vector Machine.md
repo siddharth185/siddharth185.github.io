@@ -66,7 +66,7 @@ plt.plot(xx, yy, 'k-')
 
 
 
-![png](/images/SVM_files/SVM_7_1.png)
+![png](/images/SVM_files/SVM_7_1.png?raw=true)
 
 
 However, what if the data is not linearly seperable i.e a straight line cannot seperate the data as given below.
@@ -102,7 +102,7 @@ plt.scatter(X[:, 0], X[:, 1], c=y, s=50, cmap='spring')
 
 
 
-![png](/images/SVM_files/SVM_9_1.png)
+![png](/images/SVM_files/SVM_9_1.png?raw=true)
 
 
 
@@ -133,7 +133,7 @@ plot_svc_decision_function(clf);
 ```
 
 
-![png](/images/SVM_files/SVM_12_0.png)
+![png](/images/SVM_files/SVM_12_0.png?raw=true)
 
 
 Lets take the iris dataset and fit a SVM model and also try to tune its parameters.
@@ -157,7 +157,7 @@ Image(filename ="setosa.jpg", width=500, height=300)
 
 
 
-![jpeg](/images/SVM_files/SVM_14_1.jpe)
+![jpeg](/images/SVM_files/SVM_14_1.jpeg?raw=true)
 
 
 
@@ -250,7 +250,7 @@ plot_fn(model,"linear SVC")
 ```
 
 
-![png](/images/SVM_files/SVM_22_0.png)
+![png](/images/SVM_files/SVM_22_0.png?raw=true)
 
 
 The SVM does a good job of classifying the flowers as shown above.
@@ -269,23 +269,23 @@ for g in ('auto', 5, 10, 25, 50):
 ```
 
 
-![png](/images/SVM_files/SVM_24_0.png)
+![png](/images/SVM_files/SVM_24_0.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_24_1.png)
+![png](/images/SVM_files/SVM_24_1.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_24_2.png)
+![png](/images/SVM_files/SVM_24_2.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_24_3.png)
+![png](/images/SVM_files/SVM_24_3.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_24_4.png)
+![png](/images/SVM_files/SVM_24_4.png?raw=true)
 
 
 The C parameter tells the SVM optimization how much you want to avoid misclassifying each training example. For large values of C, the optimization will choose a smaller-margin hyperplane. Conversely, a very small value of C will cause the optimizer to look for a larger-margin separating hyperplane, even if that hyperplane misclassifies more points.
@@ -301,23 +301,23 @@ for c in (1,100,500,1000):
 ```
 
 
-![png](/images/SVM_files/SVM_26_0.png)
+![png](/images/SVM_files/SVM_26_0.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_26_1.png)
+![png](/images/SVM_files/SVM_26_1.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_26_2.png)
+![png](/images/SVM_files/SVM_26_2.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_26_3.png)
+![png](/images/SVM_files/SVM_26_3.png?raw=true)
 
 
 
-![png](/images/SVM_files/SVM_26_4.png)
+![png](/images/SVM_files/SVM_26_4.png?raw=true)
 
 
 The best way to choose C value is through K-fold Cross validation.
@@ -345,28 +345,28 @@ for c in (1,100,500,750):
 ```
 
 
-![png](/images/SVM_files/SVM_30_0.png)
+![png](/images/SVM_files/SVM_30_0.png?raw=true)
 
 
     The accuracy on the test set =  0.7
 
 
 
-![png](/images/SVM_files/SVM_30_2.png)
+![png](/images/SVM_files/SVM_30_2.png?raw=true)
 
 
     The accuracy on the test set =  0.716666666667
 
 
 
-![png](/images/SVM_files/SVM_30_4.png)
+![png](/images/SVM_files/SVM_30_4.png?raw=true)
 
 
     The accuracy on the test set =  0.683333333333
 
 
 
-![png](/images/SVM_files/SVM_30_6.png)
+![png](/images/SVM_files/SVM_30_6.png?raw=true)
 
 
     The accuracy on the test set =  0.683333333333

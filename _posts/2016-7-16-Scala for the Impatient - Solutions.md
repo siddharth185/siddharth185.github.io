@@ -15,5 +15,6 @@ Note - I'm using Scala 2.11.7
 
 {% gist siddharth185/8f4d3c8f9f67619e6e283caca25e3222 %}
 
+**Chapter 2**
 
 {% gist siddharth185/e1dcb6d0a35ae57ca17b7e5a46513be7 %}

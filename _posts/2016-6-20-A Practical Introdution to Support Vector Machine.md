@@ -1,5 +1,5 @@
+SVM's are awesome. Let me gradually introduce this versatile and effective Supervised learning algorithm.
 
-# ** A Practical Introduction To Support Vector Machines in Python**
 
 Lets use Pythons Scikit Learn Library to generate and visualize some random points.
 

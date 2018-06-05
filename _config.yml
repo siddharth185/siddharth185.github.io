@@ -6,13 +6,13 @@ description: A blog about lorem ipsum dolor sit amet
 
 # User settings
 username: Siddharth Kulshrestha
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: Hi There! I'm Siddharth.I am currently a Masters CS Student of Computer Science at Binghamton University(Binghamton, NY). I'm a software developer interested in Distributed Systems and Machine Learning. Previously, I had interned as a Machine Learning Engineer Intern as SupplyAI.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-
+email: think.siddharth@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  siddharth185
+# gplus_username:  lorem_ipsum
+medium_username: siddharth185
 # Google-analytics
 google-analytics:
   id: ""

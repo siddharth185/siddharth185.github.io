@@ -1,7 +1,7 @@
 title: Posts
 description: -
 author: Siddharth Kulshrestha
-github: https://github.com/agusmakmun
+github: https://github.com/siddharth185
 about: CS Grad Student at Binghamton University. Interested in Distributed Systems and Machine Learning.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://skulshrestha.me"
+url: "https://siddharth185.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20

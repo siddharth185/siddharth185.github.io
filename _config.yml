@@ -1,57 +1,20 @@
-title: Posts
-description: Posts
-author: Siddharth Kulshrestha
-github: https://github.com/siddharth185
-about: CS Grad Student at Binghamton University. Interested in Distributed Systems and Machine Learning.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+# Site settings
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-enableTags: true
-tagarray: []
+# User settings
+username: Siddharth Kulshrestha
+user_description: Hi There! I'm Siddharth.I am currently a Masters CS Student of Computer Science at Binghamton University(Binghamton, NY). I'm a software developer interested in Distributed Systems and Machine Learning. Previously, I had interned as a Machine Learning Engineer Intern as SupplyAI.
+user_title: Software Developer
+email: think.siddharth@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  siddharth185
+# gplus_username:  lorem_ipsum
+medium_username: siddharth185
+# Google-analytics
+google-analytics:
+  id: ""
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
-social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: ""
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/siddharth-kulshrestha/"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/siddharth185"
-
-share:
-  twitter_username: 
-  fb_appid: 
-
-urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
-url: "https://siddharth185.github.io"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
-markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
+exclude: ['package.json', 'src' , 'node_modules']
